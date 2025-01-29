@@ -1,0 +1,12 @@
+{
+  "name": "bet-261",
+  "version": "1.0.0",
+  "description": "Projet Puppeteer sur Netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
