@@ -12,7 +12,7 @@ const puppeteer = require('puppeteer');
        const page = await browser.newPage();
 
        // Naviguer vers une URL
-       await page.goto('https://www.example.com');
+       await page.goto('https://www.google.com');
 
        // Prendre une capture d'écran
        const screenshot = await page.screenshot({ encoding: 'base64' });
